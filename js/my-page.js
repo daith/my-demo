@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 document.addEventListener('DOMContentLoaded', function() {
-    const text = "情人節美不勝收，製造兩人難忘的回憶。即使沒有對象，我們依然要讓自己美到讓人心動。相信自己的美麗，讓我們一起迎接每一個令人心動的瞬間。";
+    const text = "美顏盛宴嘉年華 - 不只是一場活動，它是一個開始，讓我們一起探索和重申自我價值的重要性。在這裡，我們提供最先進的美容技術和專業建議，讓每一位參與者都能找到屬於自己的美麗之道。從專業的皮膚分析到個性化的護膚方案，每一步都是我們對您的深情款待。";
     const typewriterContainer = document.getElementById('typewriter-text');
     let index = 0;
 

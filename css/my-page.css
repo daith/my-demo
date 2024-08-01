@@ -1632,3 +1632,10 @@ ul li {
     padding: 5px; /* 為每個列表項目添加內邊距，增加點擊區域和視覺舒適度 */
 }
 
+.content-box-2{
+    background-color: #ffffff; /* 白色背景 */
+    border: 1px solid #dee2e6; /* 灰色边框 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 灰色阴影 */
+    padding: 20px;
+    margin-bottom: 20px;
+}
